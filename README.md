@@ -1,2 +1,2 @@
-# Lizbeth-Duarte-Intro26.3
+# Lizbeth-Duarte-Intro-26-3
 Portfolio project for Intro to Programming course with Code the Dream
